@@ -1,0 +1,22 @@
+.picture{
+   
+    background-image: url('image/prog5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+     
+   }
+
+   .classic{
+       width: 150px;
+       height: 150px;
+       
+   }
+   .pictur{
+   
+    background-image: url('image/cart1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    
+   }
